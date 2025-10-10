@@ -1,0 +1,27 @@
+body{
+    background-color: lightgray;
+}
+
+nav{
+    background-color: lightblue;
+}
+
+nav ul{
+    display: flex;
+    gap:.75rem;
+    list-style: none;
+}
+
+.container{
+    background-color: wheat;
+}
+
+#main{
+    background-color: lightgreen;
+}
+
+
+
+/*NAME{
+    property: value;
+}*/
